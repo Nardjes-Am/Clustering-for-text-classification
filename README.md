@@ -38,3 +38,13 @@ Step 18. End for
 Algorithm Ends
 ```
 ### Reference 
+```
+@inbook{Gowda_Suhil_Guru_Raju_2017,
+address={Singapore},
+title={Semi-supervised text categorization using recursive K-means clustering},
+ISBN={9789811048586}, ISSN={1865-0929},
+booktitle={Communications in Computer and Information Science},
+publisher={Springer Singapore},
+author={Gowda, Harsha S. and Suhil, Mahamad and Guru, D. S. and Raju, Lavanya Narayana}, year={2017}, pages={217–227} }
+
+```
