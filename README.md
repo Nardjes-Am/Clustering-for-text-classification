@@ -1,7 +1,7 @@
 # Clustering-for-text-classification
 
 ### Pseudo algorithm 
-
+```
 Input:
 D^T^={D^L^,D^-u^}: A collection of labeled and unlabeled samples.
 Output:
@@ -36,5 +36,5 @@ Step 16. Label(du) = ClassLabel(Pi)
 Step 17. End for
 Step 18. End for
 Algorithm Ends
-
+```
 ### Reference 
